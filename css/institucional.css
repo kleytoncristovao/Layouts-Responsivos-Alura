@@ -1,15 +1,3 @@
-.institucional {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-
-    color: var(--fonte-cinza);
-    text-align: center;
-
-    padding-top: 2rem;
-    padding-bottom: 2rem;
-}
-
 .institucional__titulo {
     color: var(--cinza-escuro);
     font-weight: 700;
@@ -23,6 +11,16 @@
 
 .institucional__descricao {
     margin-bottom: 2rem;
+}
+
+.institucional {
+    align-items: center;
+    color: var(--fonte-cinza);
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
 }
 
 .institucional__endereco {
@@ -50,5 +48,13 @@
 }
 
 .institucional__video {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    background-color: var(--bg-rodape);
+
+    padding-top: 2.5rem;
+    padding-bottom: 2rem;
     width: 100vw;
 }
