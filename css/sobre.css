@@ -1,13 +1,13 @@
 .sobre {
-    padding-top: 3rem;
     padding-bottom: 3rem;
+    padding-top: 3rem;
 }
 
 .sobre__titulo {
     color: var(--cinza-escuro);
-    font-weight: 700;
     font-size: 1.5rem;
     font-family: var(--montserrat);
+    font-weight: 700;
     text-transform: uppercase;
     text-align: center;
 
@@ -16,7 +16,6 @@
 
 .sobre__texto {
     line-height: normal;
-
     margin-bottom: 1rem;
 }
 
@@ -29,6 +28,5 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-
     margin-bottom: 1rem;
 }
