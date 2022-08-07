@@ -4,9 +4,9 @@
 ## imagens do projeto
 
 <div>
-  <img src="https://user-images.githubusercontent.com/90114049/183272329-1c416fd9-b9ad-4ec1-a8a1-cd20c9cc1f81.png" height="250" alt="imagem de demostração do projeto para dispositivo Mobile"  />
-    <img src="https://user-images.githubusercontent.com/90114049/183272332-72fe634b-2b10-438a-b6a5-0b83bbeff00a.png" height="250" alt="imagem 2 de demostração do projeto para tablet"  />
-    <img src="https://user-images.githubusercontent.com/90114049/183272325-5435fbb7-4b79-4555-93d3-870ba093c1da.png" height="250" alt="imagem 3 de demostração do projeto para desktop"  />    
+  <img src="https://user-images.githubusercontent.com/90114049/183272329-1c416fd9-b9ad-4ec1-a8a1-cd20c9cc1f81.png" width="250" alt="imagem de demostração do projeto para dispositivo Mobile"  />
+    <img src="https://user-images.githubusercontent.com/90114049/183272332-72fe634b-2b10-438a-b6a5-0b83bbeff00a.png" width="250" alt="imagem 2 de demostração do projeto para tablet"  />
+    <img src="https://user-images.githubusercontent.com/90114049/183272325-5435fbb7-4b79-4555-93d3-870ba093c1da.png" width="250" alt="imagem 3 de demostração do projeto para desktop"  />    
 </div>
 
 ## Tecnologias usadas
