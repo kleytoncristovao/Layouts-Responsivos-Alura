@@ -5,12 +5,11 @@
 
 .sobre__titulo {
     color: var(--cinza-escuro);
-    font-size: 1.5rem;
     font-family: var(--montserrat);
+    font-size: 1.5rem;
     font-weight: 700;
-    text-transform: uppercase;
     text-align: center;
-
+    text-transform: uppercase;
     margin-bottom: 1.25rem;
 }
 

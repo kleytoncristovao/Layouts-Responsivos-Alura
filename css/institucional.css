@@ -1,11 +1,10 @@
 .institucional__titulo {
     color: var(--cinza-escuro);
-    font-weight: 700;
-    font-size: 1.5rem;
     font-family: var(--montserrat);
-    text-transform: uppercase;
+    font-size: 1.5rem;
+    font-weight: 700;
     text-align: center;
-
+    text-transform: uppercase;
     margin-bottom: 2rem;
 }
 
@@ -26,14 +25,12 @@
 .institucional__endereco {
     font-size: 1.5rem;
     line-height: normal;
-
     margin-bottom: 2rem;
 }
 
 .institucional__contato {
     font-size: 1.2rem;
     line-height: 1.8;
-
     margin-top: 2rem;
 }
 
@@ -43,16 +40,16 @@
 
 .institucional__contato-email {
     color: var(--fonte-link);
-    text-decoration: underline;
     display: block;
+    text-decoration: underline;
 }
 
 .institucional__video {
+    align-items: center;
     display: flex;
     flex-direction: column;
-    align-items: center;
-    padding-top: 2.5rem;
     padding-bottom: 2rem;
+    padding-top: 2.5rem;
     width: 100%;
 }
 
@@ -72,17 +69,14 @@
 @media screen and (min-width: 1024px) {
    
     .institucional__conteudo {
-        width: 100%;
-
         display: flex;
         justify-content: space-between;
-
         text-align: left;
+        width: 100%;
     }
 
     .institucional__video {
         align-self: flex-end;
-
         width: 375px;
     }
 
